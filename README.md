@@ -4,11 +4,11 @@ For MSBD5001 individual project in kaggle, 2020 fall term
 
 
 
-#### Program Language
+### Program Language
 
 Python3
 
-#### Required Packages
+### Required Packages
 
 pandas
 
@@ -20,11 +20,11 @@ matplotlib
 
 xgboost
 
-#### Reproduce Result
+### Reproduce Result
 
 run MSBD5001_individual_project.ipynb sequencely
 
-#### Supplement
+### Supplement
 
 train.csv is the training dataset
 
